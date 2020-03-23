@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project Resource
+res/
+
+# Macbook ds
+.DS_Store
